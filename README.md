@@ -1,7 +1,14 @@
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=satng&&show_icons=true&theme=github" />
+
 ### Hi there 👋
 
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on Internet of Things, Insurance big data.
+- 🌱 I’m currently learning C & NodeJs & React & Golang.
+- 📫 How to reach me: satnglove@gmail.com
+
 <!--
-**satng/satng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
