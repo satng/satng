@@ -5,7 +5,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Internet of Things, Insurance big data.
-- 🌱 I’m currently learning C & NodeJs & React & Golang.
+- 🌱 I’m currently learning C & Golang & NodeJs & React & Flutter.
 - 📫 How to reach me: satnglove@gmail.com
 
 <!--
