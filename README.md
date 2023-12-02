@@ -3,7 +3,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Internet of Things, Insurance big data.
-- 🌱 I’m currently learning C/C++/C#/Golang/JS & NodeJs/React/Android/Flutter/Native.
+- 🌱 I’m currently learning C/C++/C#/Golang/JS/Dart & NodeJs/React/Android/Flutter/Linux&Windows&Mobile Native.
 
 <!--
 
